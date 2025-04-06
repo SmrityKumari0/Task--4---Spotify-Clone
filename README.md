@@ -16,4 +16,5 @@ It mimics the look and feel of the Spotify web player with simple functionality.
 - HTML5
 - CSS3
 - JavaScript
-- 
+
+
